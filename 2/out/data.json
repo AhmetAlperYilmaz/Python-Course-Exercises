@@ -1,1 +1,6 @@
-[{"name": "lena.jpg", "height": 512, "width": 512}, {"name": "zico.jpg", "height": 748, "width": 1096}]
+[
+  { "name": "alper.jpg", "height": 1599, "width": 799 },
+  { "name": "lena.jpg", "height": 512, "width": 512 },
+  { "name": "maddog.jpg", "height": 384, "width": 384 },
+  { "name": "zico.jpg", "height": 748, "width": 1096 }
+]

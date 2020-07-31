@@ -3,7 +3,7 @@ from imutils.video import FPS
 
 # Create a capture video object.
 # Try replacing 1 with 0 if it doesn't work
-capture = cv2.VideoCapture(1)
+capture = cv2.VideoCapture(0)
 
 # Define the video resolution.
 capture.set(cv2.CAP_PROP_FRAME_WIDTH,  640)
